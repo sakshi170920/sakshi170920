@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sakshi Oswal !
 
 * Technical Analyst [@Credit Suisse](https://www.linkedin.com/company/credit-suisse/) 👨‍💻
