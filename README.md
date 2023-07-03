@@ -1,4 +1,4 @@
-[![SVG](https://github.com/sakshi170920/sakshi170920/assets/53859329/299d7f33-0072-44f6-9ade-5dbbcdac3f00) 
+![SVG](https://github.com/sakshi170920/sakshi170920/assets/53859329/299d7f33-0072-44f6-9ade-5dbbcdac3f00) 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sakshi Oswal !
 
