@@ -4,7 +4,7 @@
 
 * Technical Analyst [@Credit Suisse](https://www.linkedin.com/company/credit-suisse/) 👨‍💻
 * Bachelor's in Computer Science, VIT Pune🎓
-* Curious
+* Curious . Analytical . Deterministic
 * Problem Solving ❤
 * **Hobbies**: Music(Mostly Taylor Swift) and Dance!
 * Want to connect with me? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/sakshi-oswal/) ! 
