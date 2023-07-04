@@ -53,7 +53,7 @@
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div style="display:flex; justify-content:center;margin-bottom:10px">
- <a href="https://www.linkedin.com/in/jaydip-dey-8a90221b2/" target="_blank">
+ <a href="https://www.linkedin.com/in/sakshi-oswal" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Sakshi Oswal linkedin style="margin-right: 20px;" />
 </a>
  
@@ -73,4 +73,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sakshi170920&label=Profile%20views&color=0e75b6&style=flat)
 
 
-Leave a ⭐ [here](https://github.com/jaydip1235/sakshi170920) if you like 😁
+Leave a ⭐ [here](https://github.com/sakshi170920) if you like 😁
