@@ -32,21 +32,21 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=sakshi170920&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi170920&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sakshi170920&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi170920&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---|
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi170920&layout=compact&theme=midnight-purple)](https://github.com/sakshi170920)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sakshi170920&layout=compact&theme=midnight-purple)](https://github.com/sakshi170920)
 </div>
 <div align="center">
 
 ### Some of my Projects 👨‍💻
 </div>
 <div  align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TY-Projects&repo=MOS-Operating-System&show_icons=true&theme=great-gatsby" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi170920&repo=Movie-Recommendation-System&show_icons=true&theme=great-gatsby" > 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi170920&repo=Pcos-App&show_icons=true&theme=great-gatsby" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakshi170920&repo=IBM-fhe-toolkit-Genome&show_icons=true&theme=great-gatsby">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=TY-Projects&repo=MOS-Operating-System&show_icons=true&theme=great-gatsby" >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sakshi170920&repo=Movie-Recommendation-System&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sakshi170920&repo=Pcos-App&show_icons=true&theme=great-gatsby" >
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sakshi170920&repo=IBM-fhe-toolkit-Genome&show_icons=true&theme=great-gatsby">
 
 </di>
 
