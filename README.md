@@ -67,7 +67,7 @@
      
 </div>  
 
-**Fun Fact ⚡**: _I'm available 🙋‍♂️ to grab a **coffee** ☕
+**Fun Fact ⚡**: _I'm available to grab a **coffee** to discuss technology, philosophy, or life! ☕
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=sakshi170920&label=Profile%20views&color=0e75b6&style=flat)
