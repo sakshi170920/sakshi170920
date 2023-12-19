@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sakshi Oswal !
 
-* Technical Analyst [@Credit Suisse](https://www.linkedin.com/company/credit-suisse/) 👨‍💻
+* Technical Analyst [@UBS](https://www.ubs.com) 👨‍💻
 * Bachelor's in Computer Science, VIT Pune🎓
 * Curious . Analytical . Deterministic
 * Problem Solving ❤
