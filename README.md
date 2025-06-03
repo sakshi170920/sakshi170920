@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sakshi Oswal !
 
-* Technical Analyst [@UBS](https://www.ubs.com) 👨‍💻
+* Software Engineer 2 [@UBS](https://www.ubs.com) 👨‍💻
 * Bachelor's in Computer Science, VIT Pune🎓
 * Curious . Analytical . Deterministic
 * Problem Solving ❤
